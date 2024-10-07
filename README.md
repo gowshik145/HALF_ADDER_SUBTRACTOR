@@ -83,5 +83,6 @@ endmodule
 **HALF SUTRACTOR:**
 ![ex 3 2](https://github.com/user-attachments/assets/5ba7ed95-1a9a-4fff-98d2-a0d5e43b9364)
 
-**Result:**The code is excecuted successfully.
+**Result:**
+The code is excecuted successfully.
 
