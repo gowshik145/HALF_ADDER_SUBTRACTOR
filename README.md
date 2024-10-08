@@ -72,17 +72,17 @@ assign D = a ^ b;
 endmodule
 ```
 
-**RTL Schematic**
+## RTL Schematic ##
 ![ex 3  3](https://github.com/user-attachments/assets/63cd091d-7879-4194-9a66-59c236a64989)
 
 
-**Output/TIMING Waveform**
+## Output/TIMING Waveform ##
 ![ex 3 1](https://github.com/user-attachments/assets/6fa5550e-ff44-4187-b40a-f6dfc379f4a7)
 
 
-**HALF SUTRACTOR:**
+## HALF SUTRACTOR: ##
 ![ex 3 2](https://github.com/user-attachments/assets/5ba7ed95-1a9a-4fff-98d2-a0d5e43b9364)
 
-**Result:**
+## Result: ##
 The code is excecuted successfully.
 
